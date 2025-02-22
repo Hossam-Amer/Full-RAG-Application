@@ -8,13 +8,13 @@ The application is built using **FastAPI**, **PostgreSQL**, and **Qdrant** for v
 
 ## 🔥 Features
 
-- 🔄 **Multi-Project Management** – Create and organize multiple projects, each with its own set of files and configurations.
-- 📂 **File Upload & Processing** – Supports a wide range of formats, including **PDFs, DOCX, TXT**, and more.
-- 🏗️ **Intelligent Chunking & Overlapping** – Customize chunk size and overlap settings to optimize text segmentation and retrieval.
-- 🏛️ **Hybrid Database Architecture** – Store structured metadata in **PostgreSQL** and high-dimensional embeddings in **Qdrant** for blazing-fast semantic search.
-- 🤖 **AI-Powered Querying** – Retrieve relevant document snippets using **state-of-the-art embeddings** powered by OpenAI and Cohere.
-- 🚀 **Scalable & High-Performance API** – Built with **FastAPI**, ensuring rapid and asynchronous interactions for real-time document retrieval.
-- 🛠️ **Seamless Integrations** – Designed to work with multiple LLMs and retrieval frameworks such as **LangChain**.
+-  **Multi-Project Management** – Create and organize multiple projects, each with its own set of files and configurations.
+- **File Upload & Processing** – Supports a wide range of formats, including **PDFs, DOCX, TXT**.
+- **Chunking & Overlapping** – Customize chunk size and overlap settings to optimize text segmentation and retrieval.
+- **Hybrid Database Architecture** – Store structured metadata in **PostgreSQL** and high-dimensional embeddings in **Qdrant** for blazing-fast semantic search.
+- **AI-Powered Querying** – Retrieve relevant document snippets using **state-of-the-art embeddings** powered by OpenAI and Cohere.
+-  **Fast API Backend** – Built with **FastAPI**, ensuring rapid and asynchronous interactions for real-time document retrieval.
+-  **Seamless Integrations** – Designed to work with multiple LLMs and retrieval frameworks such as **LangChain**.
 
 ## 🛠️ Technologies Used
 
